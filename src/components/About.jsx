@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <div className='flex flex-col w-full xl:max-w-[600px] justify-center gap-5 text-black xl:pl-0 pl-[5px] relative'>
-          <h1 className='font-[700] xl:text-[90px] md:text-[80px] text-[65px] text-black md:leading-[50px] leading-[30px] mb-[10px] z-[1000]'  data-aos="fade-left"  data-aos-duration="3000">about me.</h1>
+          <h1 className='font-[700] xl:text-[90px] md:text-[80px] text-[65px] text-black leading-[50px] mb-[10px] z-[1000]'  data-aos="fade-left"  data-aos-duration="3000">about me.</h1>
           <p className='text-black text-[16px] z-[1000]' data-aos="fade-left" data-aos-duration="3000">I am Jaybee Aranel, a Front-End Web Developer with a passion of creating interactive and responsive web application. I have experince working with HTML, CSS, Tailwind CSS, JavaScript, PHP, and MySQL. I am a quick learner and I am always want to learn to expand my knowledge and skills. I am excited to work with others to create amazing website.</p>
 
          
