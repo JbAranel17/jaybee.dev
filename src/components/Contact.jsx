@@ -57,7 +57,7 @@ const Contact = () => {
                     
                     <div className='flex flex-col justify-center gap-5'>
                         <textarea name="message" id="" cols="50" rows="6" placeholder='Enter a message'  className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[7px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="2500"></textarea>
-                        <button type='submit' className='flex justify-center items-center gap-2 bg-white hover:bg-[#f13800] text-[16px] font-[500] rounded-[6px] py-[16px] px-[8px] text-black w-[250px] self-end'  data-aos="fade-up" data-aos-duration="3000"> <FaPaperPlane /> Send Message</button>
+                        <button type='submit' className='flex justify-center items-center gap-2 bg-white hover:bg-[#f13800] text-[16px] font-[500] rounded-[6px] py-[16px] px-[8px] text-black md:w-[250px] w-full self-end'  data-aos="fade-up" data-aos-duration="3000"> <FaPaperPlane /> Send Message</button>
                     </div>
                 </form>
             </div>
