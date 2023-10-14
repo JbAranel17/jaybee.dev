@@ -50,13 +50,13 @@ const Contact = () => {
             <div className='w-full z-10'>
                 <form onSubmit={sendEmail}  className='flex md:flex-row flex-col justify-center md:gap-3 gap-5'>
                     <div className='flex flex-col gap-2 md:w-[380px] w-full'>
-                        <input type="text" name='name_from' placeholder='Enter your name' className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[10px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="1000" />
-                        <input type="email" name="email_from" placeholder='Enter email address' className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[10px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="1500"/>
-                        <input type="text" name='subject' placeholder='Enter your subject' className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[10px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="2000"/>
+                        <input type="text" name='name_from' placeholder='Enter your name' required className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[10px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="1000" />
+                        <input type="email" name="email_from" placeholder='Enter email address' required className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[10px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="1500"/>
+                        <input type="text" name='subject' placeholder='Enter your subject' required className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[10px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="2000"/>
                     </div>
                     
                     <div className='flex flex-col justify-center gap-5'>
-                        <textarea name="message" id="" cols="50" rows="6" placeholder='Enter a message'  className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[7px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="2500"></textarea>
+                        <textarea name="message" id="" cols="50" rows="6" required placeholder='Enter a message'  className='input-form bg-[#9999995d] backdrop-blur-sm border-2 border-white rounded-[6px] py-[7px] px-[8px] text-white'  data-aos="fade-up" data-aos-duration="2500"></textarea>
                         <button type='submit' className='flex justify-center items-center gap-2 bg-white hover:bg-[#f13800] text-[16px] font-[500] rounded-[6px] py-[16px] px-[8px] text-black md:w-[250px] w-full self-end'  data-aos="fade-up" data-aos-duration="3000"> <FaPaperPlane /> Send Message</button>
                     </div>
                 </form>
