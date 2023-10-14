@@ -33,7 +33,7 @@ const Hero = () => {
 
             </div>
             
-            <img src={Me} alt="" loading="lazy" className='w-full h-auto md:max-w-[600px] max-w-[450px] self-center mx-auto' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="3000" />
+            <img src={Me} alt="" loading="lazy" className='w-full h-auto md:max-w-[600px] max-w-[460px] self-center mx-auto' data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-duration="3000" />
 
             <div className='desc absolute md:top-[83%] top-[40%] lg:left-[35%] md:left-[45%] left-[70%] w-full md:max-w-[300px] max-w-[230px] h-auto'>
               <p className='text-black md:text-[18px] text-[14px] font-[600]' data-aos="zoom-in" data-aos-duration="2000">I am a creative front-end web developer and designer.</p>
