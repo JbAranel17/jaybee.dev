@@ -24,7 +24,7 @@ const Works = () => {
           </div>
 
           <div className='flex flex-col justify-center w-full xl:max-w-[400px] md:max-w-[300px] max-w-[100%] md:text-left text-center'>
-            <h1 className='text-[#f13800] text-[45px] font-[700] mb-2.5  z-[1000]' data-aos="fade-left" data-aos-duration="2000">Neth'Eat</h1>
+            <h1 className='text-[#f13800] text-[45px] font-[700] mb-2.5  z-[1000]' data-aos="fade-left" data-aos-duration="2000">Neth's Eat</h1>
             <p className='text-white text-[16px] mb-8 z-[1000]' data-aos="fade-left" data-aos-duration="3000">Neth's Eat is my Capstone Project; it is an online platform that allows users to make catering reservations for their events. Created using HTML, CSS, JavaScript, and PHP, MySQL for the backend of the system.</p>
             <button onClick={() => newTab('https://nethseatcavite.000webhostapp.com/')} className='w-[150px] bg-white hover:bg-[#f13800] text-[16px] text-black flex justify-center items-center gap-2 py-2 rounded-[6px] md:mx-0 mx-auto font-[500] z-[1000] cursor-pointer' data-aos="fade-up" data-aos-duration="3000">Live View <FaArrowUpRightFromSquare className='text-[18px]'/></button>
           </div>
