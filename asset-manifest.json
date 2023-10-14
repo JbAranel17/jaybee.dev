@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jaybee.dev/static/css/main.38754daa.css",
-    "main.js": "/jaybee.dev/static/js/main.e58c5b01.js",
+    "main.js": "/jaybee.dev/static/js/main.896915f9.js",
     "static/media/Home Decor.png": "/jaybee.dev/static/media/Home Decor.194dd561fa5d461b17ea.png",
     "static/media/Jb.JPG": "/jaybee.dev/static/media/Jb.7923932b7ab9c777554e.JPG",
     "static/media/Jibe.JPG": "/jaybee.dev/static/media/Jibe.cb0accce02c0f569877c.JPG",
@@ -13,10 +13,10 @@
     "static/media/Transhumans - Waiting.png": "/jaybee.dev/static/media/Transhumans - Waiting.58e6ad576d3aafad2ce6.png",
     "index.html": "/jaybee.dev/index.html",
     "main.38754daa.css.map": "/jaybee.dev/static/css/main.38754daa.css.map",
-    "main.e58c5b01.js.map": "/jaybee.dev/static/js/main.e58c5b01.js.map"
+    "main.896915f9.js.map": "/jaybee.dev/static/js/main.896915f9.js.map"
   },
   "entrypoints": [
     "static/css/main.38754daa.css",
-    "static/js/main.e58c5b01.js"
+    "static/js/main.896915f9.js"
   ]
 }
