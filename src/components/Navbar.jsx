@@ -30,7 +30,7 @@ const Navbar = () => {
    
 
   return (
-    <div className={color ? 'fixed top-0 left-0  bg-[#48484882] text-white py-8 lg:px-32 px-10 flex justify-between items-center w-full mx-auto z-[10000]' : 'absolute top-0 left-0 text-black py-8 lg:px-32 px-10 flex justify-between items-center w-full mx-auto z-[10000]'}>
+    <div className={color ? 'nav fixed top-0 left-0  bg-[#48484882] text-white py-8 lg:px-32 px-10 flex justify-between items-center w-full mx-auto z-[10000]' : 'nav absolute top-0 left-0 text-black py-8 lg:px-32 px-10 flex justify-between items-center w-full mx-auto z-[10000]'}>
         <Link to="home" className='font-bold text-[25px] cursor-pointer'>jaybee.dev</Link>
         <ul className='lg:flex hidden justify-center items-center gap-8'>
             <Link to="home" className=' hover:font-[600] cursor-pointer'>home.</Link>
