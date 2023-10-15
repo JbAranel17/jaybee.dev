@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jaybee.dev/static/css/main.117fae1f.css",
-    "main.js": "/jaybee.dev/static/js/main.77931017.js",
+    "main.css": "/jaybee.dev/static/css/main.0ec20039.css",
+    "main.js": "/jaybee.dev/static/js/main.cf19d19c.js",
     "static/media/Home Decor.png": "/jaybee.dev/static/media/Home Decor.194dd561fa5d461b17ea.png",
     "static/media/Jb.JPG": "/jaybee.dev/static/media/Jb.7923932b7ab9c777554e.JPG",
     "static/media/Jibe.JPG": "/jaybee.dev/static/media/Jibe.cb0accce02c0f569877c.JPG",
@@ -12,11 +12,11 @@
     "static/media/cv.pdf": "/jaybee.dev/static/media/cv.59d2d7086e28c34ba301.pdf",
     "static/media/Transhumans - Waiting.png": "/jaybee.dev/static/media/Transhumans - Waiting.58e6ad576d3aafad2ce6.png",
     "index.html": "/jaybee.dev/index.html",
-    "main.117fae1f.css.map": "/jaybee.dev/static/css/main.117fae1f.css.map",
-    "main.77931017.js.map": "/jaybee.dev/static/js/main.77931017.js.map"
+    "main.0ec20039.css.map": "/jaybee.dev/static/css/main.0ec20039.css.map",
+    "main.cf19d19c.js.map": "/jaybee.dev/static/js/main.cf19d19c.js.map"
   },
   "entrypoints": [
-    "static/css/main.117fae1f.css",
-    "static/js/main.77931017.js"
+    "static/css/main.0ec20039.css",
+    "static/js/main.cf19d19c.js"
   ]
 }
