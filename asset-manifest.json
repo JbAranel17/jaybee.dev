@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jaybee.dev/static/css/main.0b34be35.css",
-    "main.js": "/jaybee.dev/static/js/main.fd62fc62.js",
+    "main.js": "/jaybee.dev/static/js/main.2f602a0f.js",
     "static/media/Home Decor.png": "/jaybee.dev/static/media/Home Decor.194dd561fa5d461b17ea.png",
     "static/media/Jb.JPG": "/jaybee.dev/static/media/Jb.7923932b7ab9c777554e.JPG",
     "static/media/Jibe.JPG": "/jaybee.dev/static/media/Jibe.cb0accce02c0f569877c.JPG",
@@ -9,14 +9,14 @@
     "static/media/website.jpg": "/jaybee.dev/static/media/website.31c320b6719ed2732a68.jpg",
     "static/media/gradient2.jpg": "/jaybee.dev/static/media/gradient2.90b57a3664f9163706bb.jpg",
     "static/media/gradient.jpg": "/jaybee.dev/static/media/gradient.9f81ba1d76683d4f2e01.jpg",
-    "static/media/cv.pdf": "/jaybee.dev/static/media/cv.59d2d7086e28c34ba301.pdf",
+    "static/media/Jb Cv.pdf": "/jaybee.dev/static/media/Jb Cv.63268aae4b66080366a1.pdf",
     "static/media/Transhumans - Waiting.png": "/jaybee.dev/static/media/Transhumans - Waiting.58e6ad576d3aafad2ce6.png",
     "index.html": "/jaybee.dev/index.html",
     "main.0b34be35.css.map": "/jaybee.dev/static/css/main.0b34be35.css.map",
-    "main.fd62fc62.js.map": "/jaybee.dev/static/js/main.fd62fc62.js.map"
+    "main.2f602a0f.js.map": "/jaybee.dev/static/js/main.2f602a0f.js.map"
   },
   "entrypoints": [
     "static/css/main.0b34be35.css",
-    "static/js/main.fd62fc62.js"
+    "static/js/main.2f602a0f.js"
   ]
 }
