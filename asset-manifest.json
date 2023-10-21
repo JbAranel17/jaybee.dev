@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/jaybee.dev/static/css/main.0b34be35.css",
-    "main.js": "/jaybee.dev/static/js/main.2f602a0f.js",
+    "main.css": "/jaybee.dev/static/css/main.b8fb8351.css",
+    "main.js": "/jaybee.dev/static/js/main.38cc8050.js",
+    "static/media/css.png": "/jaybee.dev/static/media/css.a6eb7d3156c34fe7cf31.png",
+    "static/media/html.png": "/jaybee.dev/static/media/html.4bcdd5880e2dffaaffbb.png",
+    "static/media/javascript.png": "/jaybee.dev/static/media/javascript.14598a57a85a964555af.png",
+    "static/media/mysql1.png": "/jaybee.dev/static/media/mysql1.bbcd25f290a0508759fd.png",
+    "static/media/php.png": "/jaybee.dev/static/media/php.3cbff054850eab5c4fdd.png",
+    "static/media/tailwind.png": "/jaybee.dev/static/media/tailwind.49e77fa591b9ff4d0515.png",
     "static/media/Home Decor.png": "/jaybee.dev/static/media/Home Decor.194dd561fa5d461b17ea.png",
     "static/media/Jb.JPG": "/jaybee.dev/static/media/Jb.7923932b7ab9c777554e.JPG",
     "static/media/Jibe.JPG": "/jaybee.dev/static/media/Jibe.cb0accce02c0f569877c.JPG",
     "static/media/jibs.png": "/jaybee.dev/static/media/jibs.888d21673cbc70f422d3.png",
     "static/media/website.jpg": "/jaybee.dev/static/media/website.31c320b6719ed2732a68.jpg",
-    "static/media/gradient2.jpg": "/jaybee.dev/static/media/gradient2.90b57a3664f9163706bb.jpg",
-    "static/media/gradient.jpg": "/jaybee.dev/static/media/gradient.9f81ba1d76683d4f2e01.jpg",
     "static/media/Jb Cv.pdf": "/jaybee.dev/static/media/Jb Cv.63268aae4b66080366a1.pdf",
     "static/media/Transhumans - Waiting.png": "/jaybee.dev/static/media/Transhumans - Waiting.58e6ad576d3aafad2ce6.png",
     "index.html": "/jaybee.dev/index.html",
-    "main.0b34be35.css.map": "/jaybee.dev/static/css/main.0b34be35.css.map",
-    "main.2f602a0f.js.map": "/jaybee.dev/static/js/main.2f602a0f.js.map"
+    "main.b8fb8351.css.map": "/jaybee.dev/static/css/main.b8fb8351.css.map",
+    "main.38cc8050.js.map": "/jaybee.dev/static/js/main.38cc8050.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b34be35.css",
-    "static/js/main.2f602a0f.js"
+    "static/css/main.b8fb8351.css",
+    "static/js/main.38cc8050.js"
   ]
 }
