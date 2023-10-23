@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jaybee.dev/static/css/main.cc02c927.css",
-    "main.js": "/jaybee.dev/static/js/main.39c200da.js",
+    "main.js": "/jaybee.dev/static/js/main.af2c6f5f.js",
     "static/media/css.png": "/jaybee.dev/static/media/css.a6eb7d3156c34fe7cf31.png",
     "static/media/html.png": "/jaybee.dev/static/media/html.4bcdd5880e2dffaaffbb.png",
     "static/media/javascript.png": "/jaybee.dev/static/media/javascript.14598a57a85a964555af.png",
@@ -13,14 +13,14 @@
     "static/media/Jibe.JPG": "/jaybee.dev/static/media/Jibe.cb0accce02c0f569877c.JPG",
     "static/media/jibs.png": "/jaybee.dev/static/media/jibs.888d21673cbc70f422d3.png",
     "static/media/website.jpg": "/jaybee.dev/static/media/website.31c320b6719ed2732a68.jpg",
-    "static/media/Aranel Cv.pdf": "/jaybee.dev/static/media/Aranel Cv.a5e3097111f112382110.pdf",
+    "static/media/Jaybee Cv.pdf": "/jaybee.dev/static/media/Jaybee Cv.b2e29540d72b361c0164.pdf",
     "static/media/Transhumans - Waiting.png": "/jaybee.dev/static/media/Transhumans - Waiting.58e6ad576d3aafad2ce6.png",
     "index.html": "/jaybee.dev/index.html",
     "main.cc02c927.css.map": "/jaybee.dev/static/css/main.cc02c927.css.map",
-    "main.39c200da.js.map": "/jaybee.dev/static/js/main.39c200da.js.map"
+    "main.af2c6f5f.js.map": "/jaybee.dev/static/js/main.af2c6f5f.js.map"
   },
   "entrypoints": [
     "static/css/main.cc02c927.css",
-    "static/js/main.39c200da.js"
+    "static/js/main.af2c6f5f.js"
   ]
 }
